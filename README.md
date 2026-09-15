@@ -1,3 +1,5 @@
+[![RelayCRM](public/media/social/og-card.png)](https://relaycrmapp.netlify.app/)
+
 # RelayCRM
 
 Relationships that move business.
